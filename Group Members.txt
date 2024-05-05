@@ -1,0 +1,15 @@
+
+Title= Count Number of Faces
+Group No = C 
+
+Sunmitted By:
+1-Maryam Naz      2021-ag-5788
+2-Khansa Asif     2021-ag-5813
+3-Saira Sharif    2021-ag-5740
+4-Sidra Yousaf    2021-ag-5804
+
+Submittted To:
+Sir Shoaib Farooq
+
+  
+Course Title:Digital Image Processing
